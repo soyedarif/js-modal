@@ -81,5 +81,5 @@ p {
   height: 100%;
   background-color: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(3px);
-  z-index: ;
+  z-index:7 ;
 }
